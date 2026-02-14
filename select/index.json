@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "銀の旧約",
+  "base_artist": "未来古代楽団",
+  "createdAt": "2026-02-14T07:52:01.391841Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀の旧約 (feat. botan)",
+      "artist": "未来古代楽団",
+      "has_synced": false,
+      "path": "select/pl_01_銀の旧約_(feat._botan)_未来古代楽団.txt"
+    }
+  ]
+}
